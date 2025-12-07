@@ -1,0 +1,1 @@
+This application processes internal church membership and contribution data solely for synchronization with QuickBooks Online. No data is shared with third parties and no user information is collected beyond what is stored in QuickBooks by authorized administrators.
